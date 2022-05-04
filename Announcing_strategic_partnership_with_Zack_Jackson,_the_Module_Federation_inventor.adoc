@@ -1,14 +1,1 @@
-[[bookmark-a]]Inline anchors make arbitrary content referenceable.
-
-[#bookmark-b]#Inline anchors can be applied to a phrase like this one.#
-
-anchor:bookmark-c[]Use a cross reference to link to this location.
-
-[[bookmark-d,last paragraph]]The xreflabel attribute will be used as link text in the cross-reference link.
-
-[[.max-w-full]
-==== *Valor Software Proudly Announces Partnership with Zack Jackson, the Inventor and Co-Creator of Module Federation (MF), Aiming to Make Code Sharing More Straightforward and Independent by Popularizing, Enhancing, and Simplifying Implementation of Module Federation&nbsp;for Various Technologies Including Angular.*
-
-
-
-]
+[.max-w-full]==== *Valor Software Proudly Announces Partnership with Zack Jackson, the Inventor and Co-Creator of Module Federation (MF), Aiming to Make Code Sharing More Straightforward and Independent by Popularizing, Enhancing, and Simplifying Implementation of Module Federation&nbsp;for Various Technologies Including Angular.*
