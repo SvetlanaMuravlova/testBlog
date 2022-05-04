@@ -1,1 +1,6 @@
-==== *Valor Software Proudly Announces Partnership with Zack Jackson, the Inventor and Co-Creator of Module Federation (MF), Aiming to Make Code Sharing More Straightforward and Independent by Popularizing, Enhancing, and Simplifying Implementation of Module Federation&nbsp;for Various Technologies Including Angular*.
+==== *Valor Software Proudly Announces Partnership with Zack Jackson, the Inventor and Co-Creator of Module Federation (MF), Aiming to Make Code Sharing More Straightforward and Independent by Popularizing, Enhancing, and Simplifying Implementation of Module Federation&nbsp;for Various Technologies Including Angular.*
+
+Valor Software, software services and consulting company, creators of https://valor-software.com/ngx-bootstrap/#/[ngx-bootstrap^] led by Dmitry Shekhovtsov, GDE in Angular and web technologies, open-source evangelist, advanced https://module-federation.github.io/[Module Federation^] practitioner, and Zack
+        Jackson, the Inventor and Co-Creator of Module Federation, maintainer and core contributor to https://webpack.js.org/[webpack^], and a Principal Engineer at Lululemon
+        Athletica, are announcing the beginning of their partnership for the ongoing development, support, and
+        implementation of Module Federation, a groundbreaking method of sharing code between and within applications.
