@@ -68,7 +68,3 @@ the ecosystems of giants like SAP and Google. Despite this fact, it’s still on
 success. We're looking forward to the breakthroughs in deployments and sharing dependencies coming from the
 ambitious cooperation that made a reason for this publication!
 
-....
-<script> alert("XSS")</script>
-....
-
